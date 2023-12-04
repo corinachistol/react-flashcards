@@ -1,3 +1,6 @@
+![image](https://github.com/corinachistol/react-flashcards/assets/115491975/948b6b5e-0d6f-4015-aaeb-1b0125fe6e5e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
